@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Nicolas 👋
 
-<!--
-**nicolaspk/nicolaspk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas na FIAP, focado em
+desenvolvimento back-end com Java. Vim do atendimento ao cliente, então
+gosto de construir software pensando em quem vai usar.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
+Java · Spring Boot · SQL (PostgreSQL) · Git · HTML · CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em destaque
+- **[Help Desk API](link)**: API REST de chamados com autenticação JWT,
+  perfis de acesso e testes automatizados
+- **[Projeto 2](link)**: [descrição em uma linha]
+
+## 📚 Estudando agora
+Spring Security · Testes com JUnit e Mockito · Docker
+
+## 📫 Contato
+[LinkedIn](link) · nicolaspaixao34@gmail.com
