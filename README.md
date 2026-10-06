@@ -50,7 +50,7 @@ Paralelamente à faculdade, passei **13 meses no atendimento ao cliente**. Foi l
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="52" height="52" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" height="40" alt="SQL" title="SQL" />
 
-<br><br>
+<br>
 
 **Base**
 
@@ -81,7 +81,13 @@ Paralelamente à faculdade, passei **13 meses no atendimento ao cliente**. Foi l
 
 ---
 
-## 🚀 Projetos em construção
+## 🚀 Projetos
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| 🌐 **[Portal de Locais Acessíveis](https://github.com/1TDSPH-26/portal-locais-acessiveis)** | Projeto de equipe (FIAP) que mostra quais estabelecimentos têm quais recursos de acessibilidade. Contribuí com a rota e a página de detalhe do local, via pull request. | ![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?logo=react) |
+
+### Em construção
 
 - [x] Currículo e perfil do GitHub atualizados
 - [ ] **Help Desk** · fase 1: front-end em React + TypeScript
@@ -89,8 +95,6 @@ Paralelamente à faculdade, passei **13 meses no atendimento ao cliente**. Foi l
 - [ ] **Controle Financeiro** · React + SQL
 - [ ] **Análise de Dados** · Python
 - [ ] Primeira vaga ou estágio em desenvolvimento 🎯
-
-> Os links entram aqui assim que cada repositório for publicado.
 
 ---
 
