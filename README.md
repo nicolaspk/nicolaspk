@@ -122,6 +122,14 @@ Paralelamente à faculdade, passei **13 meses no atendimento ao cliente**. Foi l
 
 ---
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicolaspk/nicolaspk/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicolaspk/nicolaspk/output/github-snake.svg" />
+  <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/nicolaspk/nicolaspk/output/github-snake.svg" />
+</picture>
+</div>
+
 ## 🤝 Vamos conversar?
 
 Estou aberto a oportunidades de **estágio e vaga júnior** em desenvolvimento de software. Se quiser trocar uma ideia sobre tecnologia, carreira ou projetos, me chame:
