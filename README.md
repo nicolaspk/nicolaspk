@@ -48,7 +48,7 @@ Paralelamente à faculdade, passei **13 meses no atendimento ao cliente**. Foi l
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="52" height="52" alt="Java" title="Java" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="52" height="52" alt="React" title="React" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="52" height="52" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="52" height="52" alt="SQL e Oracle" title="SQL / Oracle" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" height="40" alt="SQL" title="SQL" />
 
 <br><br>
 
